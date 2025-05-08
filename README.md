@@ -93,3 +93,18 @@ pdf-tool/
 ├── .gitignore            # Git ignore file for excluding unwanted files
 └── .env                  # Example .env file (configure your database settings)
 ```
+
+## ❓ Q&A
+
+> **Q: Why did you add a login system?**  
+> A: I also don't know 😅. Maybe it looks cool? Maybe future features?
+
+> **Q: Does the tool save user activity?**  
+> A: Yes! All tasks are logged in the database with time, task type, and file info.
+
+> **Q: Can I use the tool without internet?**  
+> A: Yes, everything runs offline once it's installed.
+
+> **Q: Why did you include so many PDF tools in one app?**  
+> A: Because switching tools every 5 minutes is annoying 😤.
+
