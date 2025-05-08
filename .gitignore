@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.dist/
+Backup/
+pdf-toolkit/
+main.py
+new.py
