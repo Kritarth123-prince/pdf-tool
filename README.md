@@ -74,6 +74,7 @@ DB_NAME=pdf_tool
 > [!NOTE]  
 > Replace `yourpassword` with your MySQL password. The `.env` file is used to store sensitive information and should **never** be committed to Git.
 
+### Folder Structure
 ```bash
 pdf-tool/
 ├── main_login.py         # Main entry point to start the login window
