@@ -71,7 +71,8 @@ DB_PASSWORD=yourpassword
 DB_NAME=pdf_tool
 ```
 
-> **Note:** Replace `yourpassword` with your MySQL password. The `.env` file is used to store sensitive information and should **never** be committed to Git.
+> [!NOTE]  
+> Replace `yourpassword` with your MySQL password. The `.env` file is used to store sensitive information and should **never** be committed to Git.
 
 ```bash
 pdf-tool/
