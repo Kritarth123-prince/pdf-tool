@@ -89,5 +89,5 @@ pdf-tool/
 ├── excel_pdf.py          # PDF to Excel and vice versa conversion
 ├── requirements.txt      # Lists required Python packages
 ├── .gitignore            # Git ignore file for excluding unwanted files
-└── .env.example          # Example .env file (configure your database settings)
+└── .env                  # Example .env file (configure your database settings)
 ```
